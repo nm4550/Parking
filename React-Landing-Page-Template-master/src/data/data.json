@@ -1,0 +1,132 @@
+{
+  "Header": {
+    "title": "!پارکش کن",
+    "paragraph": "نوین ترین پارکینگ یاب هوشمند ایران"
+  },
+  "About": {
+    "paragraph": "به کمک اپلیکیشن و وب سایت پارکش کن! در هر مکان میتوانید نزدیک ترین و ارزان ترین پارکینگ های اطراف را بیابید و هم در هزینه و هم وقت خود صرفه جویی کنید",
+    "Why": [
+      "کاهش ترافیک",
+      "صرفه جویی در زمان",
+      "کاهش آلودگی هوا",
+      "تسهیل دسترسی"
+    ],
+    "Why2": [
+      "قیمت مناسب",
+      "پشتیبانی شبانه روزی",
+      "سرعت و کیفیت خدمات",
+      "کاهش فشار های روانی"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "پارکینگ اپال",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "پارکینگ پالادیوم",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "پارکینگ لیدوما",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "پاركينگ كوروش",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "پاركينگ بازار مبل ايران",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "پاركينگ چيتگر",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "پاركينگ مجتمع خليج فارس",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "پاركينگ آب و آتش",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "پاركينگ ميلاد نور",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/08.jpg",
+      "name": " یاسین عسکریان",
+      "job": "بیزنس استراتژیست - مدیر پروژه"
+    },
+    {
+      "img": "img/team/01.jpg",
+      "name": "ماهان محمودی",
+      "job": "لیدر تیم توسعه وب - مدیر عامل اجرایی"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "سهیل حسینی",
+      "job": "توسعه دهنده ارشد فرانت اند - سرمایه گذار"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "محمد قفقازیان",
+      "job": "توسعه دهنده ارشد فرانت اند - مدیر بخش تحقیق و توسعه"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "نرگس مشایخی",
+      "job": "توسعه دهنده ارشد فرانت اند - مدیر تیم مارکتینگ و توسعه محصول"
+    },
+    {
+      "img": "img/team/05.jpg",
+      "name": "سعید شهیب زاده",
+      "job": "لیدر تیم بک اند - مختصص داده"
+    },
+    {
+      "img": "img/team/06.jpg",
+      "name": "روزبه غزوی",
+      "job": "توسعه دهنده ارشد بک اند - مدیر تیم امنیت"
+    },
+    {
+      "img": "img/team/07.jpg",
+      "name": "صدرا حیدری مقدم",
+      "job": "مدیر محصول"
+    }
+  ],
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "مدیریت زمان",
+      "text": "در کمتر از چند دقیقه، پارکینگ پیدا کنید"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "قیمت مناسب",
+      "text": "پارکینگ ها را بررسی کرده و خودتان انتخاب کنید"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "کاهش آلودگی هوا",
+      "text": "تردد بی مورد را کاهش دهید"
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "کاهش ترافیک",
+      "text": "ساعتها دنبال جای پارک نگردید"
+    }
+  ]
+}
